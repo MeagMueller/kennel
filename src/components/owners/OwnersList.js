@@ -11,6 +11,8 @@ export default class OwnersList extends Component {
                         <div key={owner.id}>
                             {owner.name + ": "}
                             {owner.phoneNumber}
+                            <button
+                                    onClick={() => this.props.deleteOwners(owner.id)} >Delete</button>
                         </div>)
                 }
             </article>
