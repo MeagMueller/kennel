@@ -1,0 +1,81 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessica Younker"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+        "id": 3,
+        "name": "Zoe Blanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doggle",
+      "breed": "Husky"
+    },
+    {
+      "id": 2,
+      "name": "Puppo",
+      "breed": "Mix"
+    },
+    {
+      "id": 3,
+      "name": "Lord Fluffington the 3rd",
+      "breed": "Cavalier King Charles"
+    },
+    {
+      "id": 4,
+      "name": "Woofer",
+      "breed": "Samoyed"
+    },
+    {
+      "id": 5,
+      "name": "Subwoofer",
+      "breed": "Shiba Inu"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Brunhilde Spellman",
+      "phoneNumber": "622-651-6578"
+    },
+    {
+      "id": 2,
+      "name": "Allegedly Beverly",
+      "phoneNumber": "555-555-5555"
+    },
+    {
+      "id": 3,
+      "name": "Damnit Kevin",
+      "phoneNumber": "985-656-9742"
+    },
+    {
+      "id": 4,
+      "name": "D a v e",
+      "phoneNumber": "985-336-6522"
+    }
+  ]
+}
